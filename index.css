@@ -1,0 +1,28 @@
+
+.infinity{
+    
+    font-size: 30px;
+}
+.background{
+    background-color: black;
+}
+
+.configuracoes{
+    font-family: 'Times New Roman', Times, serif;
+}
+.margem{
+    margin-bottom: 5vh;
+}
+.texto{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+.logo{
+    width: 10vh;
+    height: 10vh;
+    align-items: center;
+}
+.logofooter{
+    width: 30vh;
+    height: 20vh;
+}
